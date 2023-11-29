@@ -1,9 +1,5 @@
 from gamefunctions import *
 
-# question_bank = {
-#     :
-# }
-
 start =  True
 while start:    
     #display menu
