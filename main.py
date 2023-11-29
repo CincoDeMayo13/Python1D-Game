@@ -1,6 +1,5 @@
 from gamefunctions import *
 
-<<<<<<< HEAD
 # question_bank = {
 #    "Time Management" :, 
 #    "Academic Challenges" :,
@@ -21,8 +20,6 @@ from gamefunctions import *
 
 
 
-=======
->>>>>>> 7c7511cf80cdbbad81ade24fddcb1e6b6c08a2de
 start =  True
 while start:    
     #display menu
