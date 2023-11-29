@@ -1,6 +1,22 @@
 # question_bank = {
-#     :
+#    "Time Management" :, 
+#    "Academic Challenges" :,
+#    "Scores" :,
+#    "Social Connections" :,
+#    "Internship Opportunity" :,
+#    "Leadership Role" :,
+#    "Financial Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
+#    "Time Management" :,
 # }
+
+
 
 start =  True
 while start:    
