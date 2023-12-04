@@ -28,7 +28,7 @@ def post_char_selection(name):
         print("\nDear {}".format(name))
         print(
         """
-        Heartiest congratulations from SUTD!1
+        Heartiest congratulations from SUTD!
         Thank you for applying to SUTD and participating in our interview process.
         The University Admission Selection Committee believes you will be an excellent fit for SUTD and will flourish due to the unique education experience we offer. 
         We are pleased to offer you admission to the undergraduate programme at SUTD commencing September 2023, as well as a Tuition Grant that allows you to pay subsidised tuition fees for the normal duration of the programme.
